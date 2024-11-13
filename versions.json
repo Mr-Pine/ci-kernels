@@ -1,6 +1,6 @@
 [
   {
-    "version": "6.12-rc2",
+    "version": "6.12-rc7",
     "static_tag": "mainline"
   },
   {
@@ -8,31 +8,7 @@
     "static_tag": "stable"
   },
   {
-    "version": "6.10.13",
-    "static_tag": ""
-  },
-  {
     "version": "6.6.41",
     "static_tag": "longterm"
-  },
-  {
-    "version": "6.1.112",
-    "static_tag": ""
-  },
-  {
-    "version": "5.15.167",
-    "static_tag": ""
-  },
-  {
-    "version": "5.10.226",
-    "static_tag": ""
-  },
-  {
-    "version": "5.4.284",
-    "static_tag": ""
-  },
-  {
-    "version": "4.19.322",
-    "static_tag": ""
   }
 ]
